@@ -93,11 +93,11 @@ These insights help businesses understand their customer base and optimize sales
 Vrinda-Store-Sales-Analysis
 
 │
-├── Vrinda Store Data Analysis.xlsx
-
 ├── dashboard.png
 
-└── README.md
+├── README.md
+
+└── Vrinda Store Data Analysis.xlsx
 
 
 ---
