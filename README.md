@@ -91,9 +91,12 @@ These insights help businesses understand their customer base and optimize sales
 
 ## Project Files
 Vrinda-Store-Sales-Analysis
+
 │
 ├── Vrinda Store Data Analysis.xlsx
+
 ├── dashboard.png
+
 └── README.md
 
 
