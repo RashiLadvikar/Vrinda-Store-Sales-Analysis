@@ -10,7 +10,7 @@ The project uses Excel features such as **data cleaning, pivot tables, charts, a
 
 ## Dashboard Preview
 
-![Vrinda Store Dashboard](dashboard.png)
+![Vrinda Store Dashboard](Dashboard.png)
 
 ---
 
